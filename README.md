@@ -2,7 +2,7 @@
 
 # GOP-ESM
 
-code for the paper "Robust Visual Tracking for Planar Objects Using Gradient Orientation Pyramid"
+code for the paper `Robust Visual Tracking for Planar Objects Using Gradient Orientation Pyramid`
 
 Previous [paper](http://www.dabi.temple.edu/~hbling/publication/17esm-go.pdf) and [code](http://www.dabi.temple.edu/~hbling/code/ICRA17_GO-ESM_release.zip) in ICRA'17.
 
